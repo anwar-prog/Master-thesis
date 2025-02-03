@@ -26,55 +26,56 @@ A hybrid approach combines both to provide:
 ## **Project Execution Plan**
 
 📌 **Month 1: Research, Planning & Data Preparation**  
-✔ Study impulse radio communication & deep learning techniques.  
-✔ Identify relevant datasets (real-world or synthetic impulse radio signals).  
-✔ Set up the development environment (Python, TensorFlow/PyTorch, MATLAB).  
-✔ Implement basic signal processing methods (FFT, Wavelet Transform) for preprocessing.  
 
-🔄 **Parallel Task:** Generate synthetic impulse radio signals if no real dataset is available.  
+✔ Studying impulse radio communication & deep learning techniques.  
+✔ Identifying relevant datasets (real-world or synthetic impulse radio signals).  
+✔ Setting up the development environment (Python, TensorFlow/PyTorch, MATLAB).  
+✔ Implementing basic signal processing methods (FFT, Wavelet Transform) for preprocessing.  
+
+🔄 **Parallel Task:** Generating synthetic impulse radio signals if no real dataset is available.  
 
 ---
 
 📌 **Month 2: AI Model Development - Noise Reduction & Feature Extraction**  
-✔ Train a **Denoising Autoencoder (DAE)** to remove noise.  
-✔ Develop a **Convolutional Neural Network (CNN)** for feature extraction.  
-✔ Perform **initial testing** to validate signal clarity improvement.  
+✔ Training a **Denoising Autoencoder (DAE)** to remove noise.  
+✔ Developing a **Convolutional Neural Network (CNN)** for feature extraction.  
+✔ Performing **initial testing** to validate signal clarity improvement.  
 
-🔄 **Parallel Task:** Document methodology and initial findings.  
+🔄 **Parallel Task:** Documenting methodology and initial findings.  
 
 ---
 
 📌 **Month 3: AI Model Development - Signal Classification & Hybrid Integration**  
-✔ Train a **Long Short-Term Memory (LSTM) network** for signal classification.  
-✔ Integrate **traditional signal processing (FFT, Wavelet) with AI (CNN + LSTM)**.  
-✔ Conduct **initial tests** on real-world or synthetic data.  
+✔ Training a **Long Short-Term Memory (LSTM) network** for signal classification.  
+✔ Integrating **traditional signal processing (FFT, Wavelet) with AI (CNN + LSTM)**.  
+✔ Conducting **initial tests** on real-world or synthetic data.  
 
 🔄 **Parallel Task:** Refine thesis sections (background, methodology).  
 
 ---
 
 📌 **Month 4: Model Optimization & Performance Evaluation**  
-✔ Perform hyperparameter tuning to improve model efficiency.  
-✔ Compare AI-enhanced vs. traditional methods for signal processing.  
-✔ Optimize for real-time or low-latency processing if required.  
+✔ Performing hyperparameter tuning to improve model efficiency.  
+✔ Comparing AI-enhanced vs. traditional methods for signal processing.  
+✔ Optimizing for real-time or low-latency processing if required.  
 
-🔄 **Parallel Task:** Implement refinements like reinforcement learning (if time allows).  
+🔄 **Parallel Task:** Implementing refinements like reinforcement learning (if time allows).  
 
 ---
 
 📌 **Month 5: Testing, Validation & Refinements**  
-✔ Validate the final model on additional datasets or real-world signals.  
-✔ Conduct stress testing under different conditions (varying noise levels, signal strengths).  
-✔ Identify and fix any remaining performance issues.  
+✔ Validating the final model on additional datasets or real-world signals.  
+✔ Conducting stress testing under different conditions (varying noise levels, signal strengths).  
+✔ Identifying and fix any remaining performance issues.  
 
-🔄 **Parallel Task:** Continue writing the thesis (results, discussion, conclusion).
+🔄 **Parallel Task:** Continuing writing the thesis (results, discussion, conclusion).
 
 ---
 
 📌 **Month 6: Finalization, Documentation & Thesis Submission**  
-✔ Prepare graphs, charts, and visualizations for the thesis.  
-✔ Finalize the thesis document and presentation.  
-✔ Conduct a final review and apply last-minute refinements.  
+✔ Preparing graphs, charts, and visualizations for the thesis.  
+✔ Finalizing the thesis document and presentation.  
+✔ Conducting a final review and apply last-minute refinements.  
 
 ---
 
