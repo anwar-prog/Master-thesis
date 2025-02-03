@@ -2,8 +2,6 @@
 
 ## Problem Statement
 
-Impulse Radio Signal Processing Using Hybrid AI-Traditional Approach
-Problem Statement
 Impulse radio communication relies on short, high-energy bursts of signals, but these signals often get distorted or lost due to noise and interference. Traditional signal processing methods struggle to handle these challenges efficiently. While research suggests that AI (deep learning) can improve signal processing, most approaches haven't been tested in real-world applications.
 
 This project explores deep learning techniques that can clean, enhance, and process impulse radio signals more effectively than traditional methods. The goal is to identify the best AI approaches and apply them to make impulse radio receivers more accurate and reliable.
