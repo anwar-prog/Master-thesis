@@ -1,25 +1,22 @@
 # Master Thesis: AI and Signal Processing - Hybrid Approach
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="60%">
-        <h2>Problem Statement</h2>
-        <p align="justify">
-          Impulse radio communication relies on short, high-energy bursts of signals, but these signals often get distorted or lost due to noise and interference. 
-          Traditional signal processing methods struggle to handle these challenges efficiently. While research suggests that AI (deep learning) can improve signal processing, 
-          most approaches haven't been tested in real-world applications.
-          <br><br>
-          This thesis explores deep learning techniques that can clean, enhance, and process impulse radio signals more effectively than traditional methods. 
-          <b>The goal is to identify the best AI approaches</b> and apply them to make impulse radio receivers more accurate and reliable.
-        </p>
-      </td>
-      <td width="40%" align="center">
-        <img src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" width="300"/>
-      </td>
-    </tr>
-  </table>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <h2>Problem Statement</h2>
+    <p align="justify">
+      Impulse radio communication relies on short, high-energy bursts of signals, but these signals often get distorted or lost due to noise and interference. 
+      Traditional signal processing methods struggle to handle these challenges efficiently. While research suggests that AI (deep learning) can improve signal processing, 
+      most approaches haven't been tested in real-world applications.
+      <br><br>
+      This thesis explores deep learning techniques that can clean, enhance, and process impulse radio signals more effectively than traditional methods. 
+      <b>The goal is to identify the best AI approaches</b> and apply them to make impulse radio receivers more accurate and reliable.
+    </p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" width="300"/>
+  </div>
 </div>
+
 
 
 
