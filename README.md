@@ -6,6 +6,11 @@ Impulse radio communication relies on short, high-energy bursts of signals, but 
 
 This thesis explores deep learning techniques that can clean, enhance, and process impulse radio signals more effectively than traditional methods. **The goal is to identify the best AI approaches** and apply them to make impulse radio receivers more accurate and reliable.
 
+<p align="center">
+  <img src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" width="600"/>
+</p>
+
+
 ## Proposed Solution: Hybrid AI-Traditional Signal Processing  
 
 ### Why This Solution?  
