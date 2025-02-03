@@ -1,5 +1,7 @@
 # Master Thesis: AI and Signal Processing - Hybrid Approach
 
+## Problem Statement
+
 Impulse Radio Signal Processing Using Hybrid AI-Traditional Approach
 Problem Statement
 Impulse radio communication relies on short, high-energy bursts of signals, but these signals often get distorted or lost due to noise and interference. Traditional signal processing methods struggle to handle these challenges efficiently. While research suggests that AI (deep learning) can improve signal processing, most approaches haven't been tested in real-world applications.
