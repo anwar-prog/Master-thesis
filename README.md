@@ -80,6 +80,8 @@ A hybrid approach combines both to provide:
 
 ---
 
+<img align="right" alt="Coding" width="350" src="https://github.com/anwar-prog/Master-thesis/blob/main/animation.gif">
+
 📌 **Month 6: Finalization, Documentation & Thesis Submission**
 
 ✔ Preparing graphs, charts, and **visualizations for the thesis**.  
