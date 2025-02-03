@@ -17,7 +17,8 @@ Impulse radio signals are often corrupted by noise and interference, reducing th
 
 ## A Hybrid AI-Traditional Signal Processing Approach
 
-A hybrid approach combines both to provide:  
+A hybrid approach combines both to provide:
+
 ✅ **Efficiency of traditional signal processing** (for quick filtering & preprocessing).  
 ✅ **Adaptability of AI** (for noise reduction, feature extraction, and signal classification).  
 
