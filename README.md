@@ -6,11 +6,14 @@ Impulse radio communication relies on short, high-energy bursts of signals, but 
 
 This project explores deep learning techniques that can clean, enhance, and process impulse radio signals more effectively than traditional methods. The goal is to identify the best AI approaches and apply them to make impulse radio receivers more accurate and reliable.
 
-Proposed Solution: Hybrid AI-Traditional Signal Processing
-Why This Solution?
-Impulse radio signals are often corrupted by noise and interference, reducing their quality.
-✔ Traditional methods like Fast Fourier Transform (FFT) and Wavelet Transform are efficient but struggle in complex environments.
-✔ Deep learning models excel at pattern recognition but can be computationally expensive.
+## Proposed Solution: Hybrid AI-Traditional Signal Processing  
+
+### Why This Solution?  
+Impulse radio signals are often corrupted by noise and interference, reducing their quality.  
+
+✔️ Traditional methods like Fast Fourier Transform (FFT) and Wavelet Transform are efficient but struggle in complex environments.  
+✔️ Deep learning models excel at pattern recognition but can be computationally expensive.  
+
 
 A hybrid approach combines both to provide:
 ✅ Efficiency of traditional signal processing (for quick filtering & preprocessing).
