@@ -37,25 +37,25 @@ A hybrid approach combines both to provide:
 ---
 
 📌 **Month 2: AI Model Development - Noise Reduction & Feature Extraction**  
-✔ Training a **Denoising Autoencoder (DAE)** to remove noise.  
-✔ Developing a **Convolutional Neural Network (CNN)** for feature extraction.  
-✔ Performing **initial testing** to validate signal clarity improvement.  
+✔ Training a Denoising Autoencoder **(DAE)** to remove noise.  
+✔ Developing a Convolutional Neural Network **(CNN)** for feature extraction.  
+✔ Performing initial testing to validate signal clarity improvement.  
 
 🔄 **Parallel Task:** Documenting methodology and initial findings.  
 
 ---
 
 📌 **Month 3: AI Model Development - Signal Classification & Hybrid Integration**  
-✔ Training a **Long Short-Term Memory (LSTM) network** for signal classification.  
-✔ Integrating **traditional signal processing (FFT, Wavelet) with AI (CNN + LSTM)**.  
-✔ Conducting **initial tests** on real-world or synthetic data.  
+✔ Training a Long Short-Term Memory **(LSTM)** network for signal classification.  
+✔ Integrating traditional signal processing **(FFT, Wavelet)** with AI **(CNN + LSTM)**.  
+✔ Conducting initial tests on real-world or synthetic data.
 
 🔄 **Parallel Task:** Refine thesis sections (background, methodology).  
 
 ---
 
 📌 **Month 4: Model Optimization & Performance Evaluation**  
-✔ Performing hyperparameter tuning to improve model efficiency.  
+✔ Performing **hyperparameter tuning** to improve model efficiency.  
 ✔ Comparing AI-enhanced vs. traditional methods for signal processing.  
 ✔ Optimizing for real-time or low-latency processing if required.  
 
@@ -64,7 +64,7 @@ A hybrid approach combines both to provide:
 ---
 
 📌 **Month 5: Testing, Validation & Refinements**  
-✔ Validating the final model on additional datasets or real-world signals.  
+✔ Validating the **final model** on additional datasets or real-world signals.  
 ✔ Conducting stress testing under different conditions (varying noise levels, signal strengths).  
 ✔ Identifying and fix any remaining performance issues.  
 
@@ -73,7 +73,7 @@ A hybrid approach combines both to provide:
 ---
 
 📌 **Month 6: Finalization, Documentation & Thesis Submission**  
-✔ Preparing graphs, charts, and visualizations for the thesis.  
+✔ Preparing graphs, charts, and **visualizations for the thesis**.  
 ✔ Finalizing the thesis document and presentation.  
 ✔ Conducting a final review and apply last-minute refinements.  
 
