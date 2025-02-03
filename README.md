@@ -78,5 +78,5 @@ A hybrid approach combines both to provide:
 
 ---
 
- 🎉 Submit the thesis!
+ 🎉 **Submitting the thesis!**
 
