@@ -51,7 +51,7 @@ A hybrid approach combines both to provide:
 
 🔄 **Parallel Task:** Refine thesis sections (background, methodology).  
 
-
+---
 
 📌 **Month 4: Model Optimization & Performance Evaluation**  
 ✔ Perform hyperparameter tuning to improve model efficiency.  
@@ -60,6 +60,8 @@ A hybrid approach combines both to provide:
 
 🔄 **Parallel Task:** Implement refinements like reinforcement learning (if time allows).  
 
+---
+
 📌 **Month 5: Testing, Validation & Refinements**  
 ✔ Validate the final model on additional datasets or real-world signals.  
 ✔ Conduct stress testing under different conditions (varying noise levels, signal strengths).  
@@ -67,11 +69,14 @@ A hybrid approach combines both to provide:
 
 🔄 **Parallel Task:** Continue writing the thesis (results, discussion, conclusion).
 
+---
 
 📌 **Month 6: Finalization, Documentation & Thesis Submission**  
 ✔ Prepare graphs, charts, and visualizations for the thesis.  
 ✔ Finalize the thesis document and presentation.  
 ✔ Conduct a final review and apply last-minute refinements.  
+
+---
 
  🎉 Submit the thesis!
 
